@@ -1,0 +1,19 @@
+*.csv
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+
+#Bu tamamen python gecici calistirmasi kapsaminda olusturulmus dosyalar.
+_local_validation/
+
+# bu benim butun projelere uyguladigim ana tarife idi. git repoda yeri yok.
+0.BU KLASOR VE PROJEYI ANALIZ ETTIRDIM 18.txt
+
+#cok kucuk bir revizyon hamlesi idi, buna da gerek yoktu kanaatindeyim.
+MY_1_Amazon_Reviews_NLP_01_06_2026_vers.ipynb
+
+# bu da benim ilk calistirma projem idi, gercekten basit kalmis olabilir.
+MY-1-Amazon Reviews NLP.ipynb
+
